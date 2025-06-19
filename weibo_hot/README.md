@@ -1,8 +1,8 @@
-# 微博热搜实时分析机器人 (异步版)
+# 微博热搜实时分析脚本 (异步版)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-orange.svg)](https://www.sqlalchemy.org/) [![AsyncIO](https://img.shields.io/badge/AsyncIO-Built--in-green.svg)](https://docs.python.org/3/library/asyncio.html)
 
-一个基于 Python `asyncio` 构建的高性能、异步的微博热搜榜监控和分析机器人。它采用生产者-消费者模型，能够 7x24 小时不间断地跟踪热搜变化，并将数据持久化到数据库中。同时，它还能调用大语言模型对新上榜的话题进行智能分析。
+一个基于 Python `asyncio` 构建的高性能、异步的微博热搜榜监控和分析脚本。它采用生产者-消费者模型，能够 7x24 小时不间断地跟踪热搜变化，并将数据持久化到数据库中。同时，它还能调用大语言模型对新上榜的话题进行智能分析。
 
 ## ✨ 功能特性
 
