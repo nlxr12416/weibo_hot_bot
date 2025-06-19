@@ -36,7 +36,6 @@ python窗口：
 初始化成功，获取到已登录窗口：xxx
 ```
 
-
 ## 示例
 > [!NOTE]
 > 如有问题请先查看[使用文档](https://docs.wxauto.org)
